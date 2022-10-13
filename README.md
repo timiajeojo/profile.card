@@ -1,1 +1,7 @@
 # profile.card
+
+My profile card containing my 
+social links and a brief about me,
+ build entirely with HTML and CSS 
+(no frameworks or libraries added)
+
